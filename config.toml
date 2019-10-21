@@ -1,0 +1,4 @@
+baseURL = "http://penakode.com/"
+languageCode = "en-us"
+title = "Penakode"
+theme = "hugo-hello-programmer-theme"
